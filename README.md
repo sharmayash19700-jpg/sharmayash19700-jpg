@@ -1,22 +1,23 @@
 # Hi 👋, I'm Yash Sharma
 
-## Aspiring Data Analyst from India 🇮🇳
+### Aspiring Data Analyst
 
 🎓 B.Com (Hons) | University of Delhi (DU SOL)
 
-💼 Passionate about Data Analytics, Business Intelligence, SQL, Python, Excel & Power BI.
-
-🌱 Currently improving my SQL, Python, Power BI and Data Analytics skills.
-
-📫 Email: **sharmayash19700@gmail.com**
-
-🌐 LinkedIn: https://linkedin.com/in/yashsharmaanalytics
-
-💻 GitHub: https://github.com/sharmayash19700-jpg
+📍 New Delhi, India
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- 📊 Passionate about Data Analytics and Business Intelligence.
+- 💻 Skilled in SQL, Python, Power BI, Excel and PostgreSQL.
+- 📈 Experienced in data cleaning, EDA, dashboard development and SQL querying.
+- 🚀 Built end-to-end portfolio projects in Banking, Healthcare, Finance and E-Commerce.
+
+---
+
+## Technical Skills
 
 - SQL
 - PostgreSQL
@@ -29,33 +30,23 @@
 - DAX
 - Jupyter Notebook
 - Google Colab
-- GitHub
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📊 Barclays Credit Card Churn Analysis
-- Customer churn analysis using Excel.
-- Pivot Tables, Charts, VLOOKUP, XLOOKUP and INDEX-MATCH.
-
-### 🏥 Fortis Hospital Operations Analytics
-- Python project using Pandas & Matplotlib.
-- Hospital operations and KPI analysis.
-
-### 💳 Credit Card Default Risk Analysis
-- Machine Learning and Exploratory Data Analysis using Python.
-
-### 🛒 E-Commerce SQL Analysis
-- PostgreSQL project using joins, CTEs, window functions and business insights.
-
-### 🌍 Global Investment Portfolio Dashboard
-- Interactive Power BI Dashboard with KPIs and DAX.
+- 📊 Barclays Credit Card Churn Analysis
+- 🏥 Fortis Hospital Operations Analytics
+- 💳 Credit Card Default Risk Analysis (Python)
+- 🛒 E-Commerce Sales SQL Analysis
+- 🌍 Global Investment Portfolio Dashboard
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yashsharmaanalytics
-- GitHub: https://github.com/sharmayash19700-jpg
-- Email: sharmayash19700@gmail.com
+📧 Email: sharmayash19700@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/yashsharmaanalytics
+
+💻 GitHub: https://github.com/sharmayash19700-jpg
