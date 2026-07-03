@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Sharma
 
-<!--
-**sharmayash19700-jpg/sharmayash19700-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst from India 🇮🇳
 
-Here are some ideas to get you started:
+🎓 B.Com (Hons) | University of Delhi (DU SOL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Passionate about Data Analytics, Business Intelligence, SQL, Python, Excel & Power BI.
+
+🌱 Currently improving my SQL, Python, Power BI and Data Analytics skills.
+
+📫 Email: **sharmayash19700@gmail.com**
+
+🌐 LinkedIn: https://linkedin.com/in/yashsharmaanalytics
+
+💻 GitHub: https://github.com/sharmayash19700-jpg
+
+---
+
+## 🛠️ Tech Stack
+
+- SQL
+- PostgreSQL
+- Python
+- Pandas
+- NumPy
+- Microsoft Excel
+- Power BI
+- Power Query
+- DAX
+- Jupyter Notebook
+- Google Colab
+- GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Barclays Credit Card Churn Analysis
+- Customer churn analysis using Excel.
+- Pivot Tables, Charts, VLOOKUP, XLOOKUP and INDEX-MATCH.
+
+### 🏥 Fortis Hospital Operations Analytics
+- Python project using Pandas & Matplotlib.
+- Hospital operations and KPI analysis.
+
+### 💳 Credit Card Default Risk Analysis
+- Machine Learning and Exploratory Data Analysis using Python.
+
+### 🛒 E-Commerce SQL Analysis
+- PostgreSQL project using joins, CTEs, window functions and business insights.
+
+### 🌍 Global Investment Portfolio Dashboard
+- Interactive Power BI Dashboard with KPIs and DAX.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yashsharmaanalytics
+- GitHub: https://github.com/sharmayash19700-jpg
+- Email: sharmayash19700@gmail.com
